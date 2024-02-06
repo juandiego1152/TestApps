@@ -1,1 +1,2 @@
-Hello, I'm just testing the text for second time
+
+Hello, I'm just testing in the feature 1 fixing conflicts
